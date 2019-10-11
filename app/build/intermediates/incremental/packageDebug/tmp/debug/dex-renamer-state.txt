@@ -1,0 +1,4 @@
+#Fri Oct 11 17:26:50 CST 2019
+base.0=D\:\\demol_BaiduMap\\BaiduLoc_AndroidSDK_v8.0_Demo\\LocationDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
